@@ -16,7 +16,7 @@ Using the LPR system will help solve a wide range of problems, including toll ro
 - To run the evaluation, do:
     - Firstly, `python .\plate_gen.py -f .\data\fonts\driver_gothic.ttf -i 10 -d .\data\images\generated_plates\`
     - Secondly, `python .\test_accuracy.py -d .\data\crnn.pth -p .\data\images\generated_plates`
-- 
+
 ## Authors
 - Eyaz Rehman ([GitHub](http://github.com/Imposter))
 - Rishabh Patel ([GitHub](http://github.com/rpatel97))
